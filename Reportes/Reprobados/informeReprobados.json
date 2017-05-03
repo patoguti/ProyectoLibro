@@ -1,0 +1,2402 @@
+[
+  {
+    "nombre": "macarena",
+    "apellido": "salamanca",
+    "run": "3000"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "salamanca",
+    "run": "3001"
+  },
+  {
+    "nombre": "martin",
+    "apellido": "gay",
+    "run": "3002"
+  },
+  {
+    "nombre": "josefa",
+    "apellido": "gay",
+    "run": "3003"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "gay",
+    "run": "3004"
+  },
+  {
+    "nombre": "patricio",
+    "apellido": "garay",
+    "run": "3005"
+  },
+  {
+    "nombre": "maria",
+    "apellido": "sandoval",
+    "run": "3006"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "neruda",
+    "run": "3007"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "pinera",
+    "run": "3008"
+  },
+  {
+    "nombre": "jose",
+    "apellido": "gay",
+    "run": "3009"
+  },
+  {
+    "nombre": "fernanda",
+    "apellido": "henriquez",
+    "run": "3010"
+  },
+  {
+    "nombre": "josefa",
+    "apellido": "neruda",
+    "run": "3011"
+  },
+  {
+    "nombre": "fernando",
+    "apellido": "gay",
+    "run": "3012"
+  },
+  {
+    "nombre": "ivette",
+    "apellido": "avalos",
+    "run": "3013"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "lopez",
+    "run": "3014"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "quiroz",
+    "run": "3015"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "gutierrez",
+    "run": "3016"
+  },
+  {
+    "nombre": "fernanda",
+    "apellido": "gay",
+    "run": "3017"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "silva",
+    "run": "3018"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "jara",
+    "run": "3019"
+  },
+  {
+    "nombre": "martina",
+    "apellido": "sandoval",
+    "run": "3020"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "vergara",
+    "run": "3021"
+  },
+  {
+    "nombre": "andres",
+    "apellido": "lazcano",
+    "run": "3022"
+  },
+  {
+    "nombre": "claudio",
+    "apellido": "jara",
+    "run": "3023"
+  },
+  {
+    "nombre": "fernanda",
+    "apellido": "henriquez",
+    "run": "3024"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "lopez",
+    "run": "3025"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "segovia",
+    "run": "3026"
+  },
+  {
+    "nombre": "martin",
+    "apellido": "gutierrez",
+    "run": "3027"
+  },
+  {
+    "nombre": "ignacio",
+    "apellido": "gay",
+    "run": "3028"
+  },
+  {
+    "nombre": "ernesto",
+    "apellido": "lagos",
+    "run": "3029"
+  },
+  {
+    "nombre": "fernando",
+    "apellido": "salas",
+    "run": "3030"
+  },
+  {
+    "nombre": "josefa",
+    "apellido": "quiroz",
+    "run": "3031"
+  },
+  {
+    "nombre": "martin",
+    "apellido": "gonzales",
+    "run": "3032"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "bahamondes",
+    "run": "3033"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "jara",
+    "run": "3034"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "etcheverry",
+    "run": "3035"
+  },
+  {
+    "nombre": "tatiana",
+    "apellido": "carrasco",
+    "run": "3036"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "munoz",
+    "run": "3037"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "lazcano",
+    "run": "3038"
+  },
+  {
+    "nombre": "patricio",
+    "apellido": "toledo",
+    "run": "3039"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "chang",
+    "run": "3040"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "etcheverry",
+    "run": "3041"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "lagos",
+    "run": "3042"
+  },
+  {
+    "nombre": "julio",
+    "apellido": "gay",
+    "run": "3043"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "salas",
+    "run": "3044"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "salgado",
+    "run": "3045"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "rivas",
+    "run": "3046"
+  },
+  {
+    "nombre": "maria",
+    "apellido": "bahamonde",
+    "run": "3047"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "lopez",
+    "run": "3048"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "gutierrez",
+    "run": "3049"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "gonzales",
+    "run": "3050"
+  },
+  {
+    "nombre": "josefa",
+    "apellido": "sandoval",
+    "run": "3051"
+  },
+  {
+    "nombre": "josefina",
+    "apellido": "rivas",
+    "run": "3052"
+  },
+  {
+    "nombre": "jose",
+    "apellido": "neruda",
+    "run": "3053"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "hun",
+    "run": "3054"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "segovia",
+    "run": "3055"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "salas",
+    "run": "3056"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "garay",
+    "run": "3057"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "fernandez",
+    "run": "3058"
+  },
+  {
+    "nombre": "alvaro",
+    "apellido": "gonzales",
+    "run": "3059"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "silva",
+    "run": "3060"
+  },
+  {
+    "nombre": "alvaro",
+    "apellido": "salamanca",
+    "run": "3061"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "segovia",
+    "run": "3062"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "fernandez",
+    "run": "3063"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "munoz",
+    "run": "3064"
+  },
+  {
+    "nombre": "claudio",
+    "apellido": "salas",
+    "run": "3065"
+  },
+  {
+    "nombre": "juan",
+    "apellido": "salamanca",
+    "run": "3066"
+  },
+  {
+    "nombre": "martina",
+    "apellido": "davalos",
+    "run": "3067"
+  },
+  {
+    "nombre": "jose",
+    "apellido": "etcheverry",
+    "run": "3068"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "salamanca",
+    "run": "3069"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "uribe",
+    "run": "3070"
+  },
+  {
+    "nombre": "juan",
+    "apellido": "garay",
+    "run": "3071"
+  },
+  {
+    "nombre": "andres",
+    "apellido": "rivas",
+    "run": "3072"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "gay",
+    "run": "3073"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "gonzales",
+    "run": "3074"
+  },
+  {
+    "nombre": "macarena",
+    "apellido": "pinera",
+    "run": "3075"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "lopez",
+    "run": "3076"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "gonzales",
+    "run": "3077"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "sandoval",
+    "run": "3078"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "jara",
+    "run": "3079"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "bachelet",
+    "run": "3080"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "lopez",
+    "run": "3081"
+  },
+  {
+    "nombre": "martina",
+    "apellido": "garay",
+    "run": "3082"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "aguayo",
+    "run": "3083"
+  },
+  {
+    "nombre": "ernesto",
+    "apellido": "segovia",
+    "run": "3084"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "etcheverry",
+    "run": "3085"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "quiroz",
+    "run": "3086"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "grez",
+    "run": "3087"
+  },
+  {
+    "nombre": "josefa",
+    "apellido": "carrasco",
+    "run": "3088"
+  },
+  {
+    "nombre": "fernanda",
+    "apellido": "salgado",
+    "run": "3089"
+  },
+  {
+    "nombre": "andres",
+    "apellido": "toledo",
+    "run": "3090"
+  },
+  {
+    "nombre": "valeria",
+    "apellido": "torres",
+    "run": "3091"
+  },
+  {
+    "nombre": "laura",
+    "apellido": "bachelet",
+    "run": "3092"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "salamanca",
+    "run": "3093"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "munoz",
+    "run": "3094"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "toledo",
+    "run": "3095"
+  },
+  {
+    "nombre": "alejandra",
+    "apellido": "jara",
+    "run": "3096"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "hun",
+    "run": "3097"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "neruda",
+    "run": "3098"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "munoz",
+    "run": "3099"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "salgado",
+    "run": "3100"
+  },
+  {
+    "nombre": "maria",
+    "apellido": "rivas",
+    "run": "3101"
+  },
+  {
+    "nombre": "fernando",
+    "apellido": "quintana",
+    "run": "3102"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "gay",
+    "run": "3103"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "bahamonde",
+    "run": "3104"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "quintana",
+    "run": "3105"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "lopez",
+    "run": "3106"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "gonzales",
+    "run": "3107"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "vergara",
+    "run": "3108"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "sandoval",
+    "run": "3109"
+  },
+  {
+    "nombre": "jose",
+    "apellido": "salamanca",
+    "run": "3110"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "bobadilla",
+    "run": "3111"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "lazcano",
+    "run": "3112"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "gonzales",
+    "run": "3113"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "lagos",
+    "run": "3114"
+  },
+  {
+    "nombre": "jose",
+    "apellido": "avalos",
+    "run": "3115"
+  },
+  {
+    "nombre": "fernando",
+    "apellido": "neruda",
+    "run": "3116"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "salamanca",
+    "run": "3117"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "segovia",
+    "run": "3118"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "hun",
+    "run": "3119"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "salgado",
+    "run": "3120"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "hun",
+    "run": "3121"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "munoz",
+    "run": "3122"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "silva",
+    "run": "3123"
+  },
+  {
+    "nombre": "andres",
+    "apellido": "torres",
+    "run": "3124"
+  },
+  {
+    "nombre": "claudio",
+    "apellido": "salas",
+    "run": "3125"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "quiroz",
+    "run": "3126"
+  },
+  {
+    "nombre": "josefa",
+    "apellido": "bachelet",
+    "run": "3127"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "henriquez",
+    "run": "3128"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "bahamonde",
+    "run": "3129"
+  },
+  {
+    "nombre": "laura",
+    "apellido": "uribe",
+    "run": "3130"
+  },
+  {
+    "nombre": "fernando",
+    "apellido": "henriquez",
+    "run": "3131"
+  },
+  {
+    "nombre": "valeria",
+    "apellido": "salas",
+    "run": "3132"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "gonzales",
+    "run": "3133"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "toledo",
+    "run": "3134"
+  },
+  {
+    "nombre": "alejandra",
+    "apellido": "neruda",
+    "run": "3135"
+  },
+  {
+    "nombre": "nicolas",
+    "apellido": "lopez",
+    "run": "3136"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "salgado",
+    "run": "3137"
+  },
+  {
+    "nombre": "javiera",
+    "apellido": "uribe",
+    "run": "3138"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "jara",
+    "run": "3139"
+  },
+  {
+    "nombre": "andres",
+    "apellido": "silva",
+    "run": "3140"
+  },
+  {
+    "nombre": "juan",
+    "apellido": "etcheverry",
+    "run": "3141"
+  },
+  {
+    "nombre": "tatiana",
+    "apellido": "pinera",
+    "run": "3142"
+  },
+  {
+    "nombre": "tatiana",
+    "apellido": "bahamonde",
+    "run": "3143"
+  },
+  {
+    "nombre": "martina",
+    "apellido": "hun",
+    "run": "3144"
+  },
+  {
+    "nombre": "fernando",
+    "apellido": "fernandez",
+    "run": "3145"
+  },
+  {
+    "nombre": "juan",
+    "apellido": "salgado",
+    "run": "3146"
+  },
+  {
+    "nombre": "alejandra",
+    "apellido": "vargas",
+    "run": "3147"
+  },
+  {
+    "nombre": "ignacio",
+    "apellido": "fernandez",
+    "run": "3148"
+  },
+  {
+    "nombre": "ernesto",
+    "apellido": "davalos",
+    "run": "3149"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "salgado",
+    "run": "3150"
+  },
+  {
+    "nombre": "josefina",
+    "apellido": "vergara",
+    "run": "3151"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "gutierrez",
+    "run": "3152"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "bachelet",
+    "run": "3153"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "bachelet",
+    "run": "3154"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "rivas",
+    "run": "3155"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "aguayo",
+    "run": "3156"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "toledo",
+    "run": "3157"
+  },
+  {
+    "nombre": "nicolas",
+    "apellido": "gonzales",
+    "run": "3158"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "vargas",
+    "run": "3159"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "hun",
+    "run": "3160"
+  },
+  {
+    "nombre": "maria",
+    "apellido": "neruda",
+    "run": "3161"
+  },
+  {
+    "nombre": "maria",
+    "apellido": "pinera",
+    "run": "3162"
+  },
+  {
+    "nombre": "javiera",
+    "apellido": "quiroz",
+    "run": "3163"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "quintana",
+    "run": "3164"
+  },
+  {
+    "nombre": "martin",
+    "apellido": "rivas",
+    "run": "3165"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "uribe",
+    "run": "3166"
+  },
+  {
+    "nombre": "macarena",
+    "apellido": "segovia",
+    "run": "3167"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "sandoval",
+    "run": "3168"
+  },
+  {
+    "nombre": "nicolas",
+    "apellido": "avalos",
+    "run": "3169"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "etcheverry",
+    "run": "3170"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "torres",
+    "run": "3171"
+  },
+  {
+    "nombre": "martin",
+    "apellido": "lagos",
+    "run": "3172"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "mauro",
+    "run": "3173"
+  },
+  {
+    "nombre": "ivette",
+    "apellido": "segovia",
+    "run": "3174"
+  },
+  {
+    "nombre": "fernando",
+    "apellido": "rivas",
+    "run": "3175"
+  },
+  {
+    "nombre": "alejandra",
+    "apellido": "carrasco",
+    "run": "3176"
+  },
+  {
+    "nombre": "patricio",
+    "apellido": "silva",
+    "run": "3177"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "pinera",
+    "run": "3178"
+  },
+  {
+    "nombre": "andres",
+    "apellido": "garay",
+    "run": "3179"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "lazcano",
+    "run": "3180"
+  },
+  {
+    "nombre": "macarena",
+    "apellido": "quiroz",
+    "run": "3181"
+  },
+  {
+    "nombre": "tatiana",
+    "apellido": "bachelet",
+    "run": "3182"
+  },
+  {
+    "nombre": "claudio",
+    "apellido": "salas",
+    "run": "3183"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "etcheverry",
+    "run": "3184"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "munoz",
+    "run": "3185"
+  },
+  {
+    "nombre": "josefa",
+    "apellido": "rivas",
+    "run": "3186"
+  },
+  {
+    "nombre": "andres",
+    "apellido": "lazcano",
+    "run": "3187"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "etcheverry",
+    "run": "3188"
+  },
+  {
+    "nombre": "juan",
+    "apellido": "lopez",
+    "run": "3189"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "salgado",
+    "run": "3190"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "garay",
+    "run": "3191"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "quintana",
+    "run": "3192"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "bahamonde",
+    "run": "3193"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "pinera",
+    "run": "3194"
+  },
+  {
+    "nombre": "javiera",
+    "apellido": "salamanca",
+    "run": "3195"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "aguayo",
+    "run": "3196"
+  },
+  {
+    "nombre": "josefa",
+    "apellido": "torres",
+    "run": "3197"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "segovia",
+    "run": "3198"
+  },
+  {
+    "nombre": "josefina",
+    "apellido": "sandoval",
+    "run": "3199"
+  },
+  {
+    "nombre": "javiera",
+    "apellido": "aguayo",
+    "run": "3200"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "salamanca",
+    "run": "3201"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "neruda",
+    "run": "3202"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "vergara",
+    "run": "3203"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "gay",
+    "run": "3204"
+  },
+  {
+    "nombre": "julio",
+    "apellido": "silva",
+    "run": "3205"
+  },
+  {
+    "nombre": "martin",
+    "apellido": "rivas",
+    "run": "3206"
+  },
+  {
+    "nombre": "javiera",
+    "apellido": "pinera",
+    "run": "3207"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "grez",
+    "run": "3208"
+  },
+  {
+    "nombre": "alejandra",
+    "apellido": "segovia",
+    "run": "3209"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "henriquez",
+    "run": "3210"
+  },
+  {
+    "nombre": "josefina",
+    "apellido": "avalos",
+    "run": "3211"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "henriquez",
+    "run": "3212"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "chang",
+    "run": "3213"
+  },
+  {
+    "nombre": "nicolas",
+    "apellido": "salas",
+    "run": "3214"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "vergara",
+    "run": "3215"
+  },
+  {
+    "nombre": "ivette",
+    "apellido": "bahamonde",
+    "run": "3216"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "quintana",
+    "run": "3217"
+  },
+  {
+    "nombre": "javiera",
+    "apellido": "gay",
+    "run": "3218"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "lagos",
+    "run": "3219"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "bachelet",
+    "run": "3220"
+  },
+  {
+    "nombre": "martin",
+    "apellido": "rivas",
+    "run": "3221"
+  },
+  {
+    "nombre": "juan",
+    "apellido": "gay",
+    "run": "3222"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "aguayo",
+    "run": "3223"
+  },
+  {
+    "nombre": "javiera",
+    "apellido": "vargas",
+    "run": "3224"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "vargas",
+    "run": "3225"
+  },
+  {
+    "nombre": "nicolas",
+    "apellido": "aguayo",
+    "run": "3226"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "toledo",
+    "run": "3227"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "chang",
+    "run": "3228"
+  },
+  {
+    "nombre": "juan",
+    "apellido": "silva",
+    "run": "3229"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "hun",
+    "run": "3230"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "carrasco",
+    "run": "3231"
+  },
+  {
+    "nombre": "javiera",
+    "apellido": "sandoval",
+    "run": "3232"
+  },
+  {
+    "nombre": "josefa",
+    "apellido": "lopez",
+    "run": "3233"
+  },
+  {
+    "nombre": "ernesto",
+    "apellido": "etcheverry",
+    "run": "3234"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "toledo",
+    "run": "3235"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "mauro",
+    "run": "3236"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "uribe",
+    "run": "3237"
+  },
+  {
+    "nombre": "fernando",
+    "apellido": "rivas",
+    "run": "3238"
+  },
+  {
+    "nombre": "alvaro",
+    "apellido": "sandoval",
+    "run": "3239"
+  },
+  {
+    "nombre": "maria",
+    "apellido": "salas",
+    "run": "3240"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "grez",
+    "run": "3241"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "uribe",
+    "run": "3242"
+  },
+  {
+    "nombre": "martina",
+    "apellido": "davalos",
+    "run": "3243"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "henriquez",
+    "run": "3244"
+  },
+  {
+    "nombre": "ivette",
+    "apellido": "gutierrez",
+    "run": "3245"
+  },
+  {
+    "nombre": "ivette",
+    "apellido": "bahamonde",
+    "run": "3246"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "vargas",
+    "run": "3247"
+  },
+  {
+    "nombre": "alejandra",
+    "apellido": "bobadilla",
+    "run": "3248"
+  },
+  {
+    "nombre": "claudio",
+    "apellido": "chang",
+    "run": "3249"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "rivas",
+    "run": "3250"
+  },
+  {
+    "nombre": "jose",
+    "apellido": "salamanca",
+    "run": "3251"
+  },
+  {
+    "nombre": "julio",
+    "apellido": "davalos",
+    "run": "3252"
+  },
+  {
+    "nombre": "patricio",
+    "apellido": "toledo",
+    "run": "3253"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "vergara",
+    "run": "3254"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "uribe",
+    "run": "3255"
+  },
+  {
+    "nombre": "valeria",
+    "apellido": "davalos",
+    "run": "3256"
+  },
+  {
+    "nombre": "juan",
+    "apellido": "vargas",
+    "run": "3257"
+  },
+  {
+    "nombre": "valeria",
+    "apellido": "segovia",
+    "run": "3258"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "torres",
+    "run": "3259"
+  },
+  {
+    "nombre": "martina",
+    "apellido": "chang",
+    "run": "3260"
+  },
+  {
+    "nombre": "martina",
+    "apellido": "gutierrez",
+    "run": "3261"
+  },
+  {
+    "nombre": "patricio",
+    "apellido": "gay",
+    "run": "3262"
+  },
+  {
+    "nombre": "josefina",
+    "apellido": "mauro",
+    "run": "3263"
+  },
+  {
+    "nombre": "ignacio",
+    "apellido": "rivas",
+    "run": "3264"
+  },
+  {
+    "nombre": "tatiana",
+    "apellido": "fernandez",
+    "run": "3265"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "segovia",
+    "run": "3266"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "neruda",
+    "run": "3267"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "aguayo",
+    "run": "3268"
+  },
+  {
+    "nombre": "patricio",
+    "apellido": "salgado",
+    "run": "3269"
+  },
+  {
+    "nombre": "claudio",
+    "apellido": "vergara",
+    "run": "3270"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "vargas",
+    "run": "3271"
+  },
+  {
+    "nombre": "ignacio",
+    "apellido": "vargas",
+    "run": "3272"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "pinera",
+    "run": "3273"
+  },
+  {
+    "nombre": "alejandra",
+    "apellido": "segovia",
+    "run": "3274"
+  },
+  {
+    "nombre": "josefina",
+    "apellido": "lazcano",
+    "run": "3275"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "rivas",
+    "run": "3276"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "silva",
+    "run": "3277"
+  },
+  {
+    "nombre": "patricio",
+    "apellido": "neruda",
+    "run": "3278"
+  },
+  {
+    "nombre": "nicolas",
+    "apellido": "gutierrez",
+    "run": "3279"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "avalos",
+    "run": "3280"
+  },
+  {
+    "nombre": "martin",
+    "apellido": "salamanca",
+    "run": "3281"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "pinera",
+    "run": "3282"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "quiroz",
+    "run": "3283"
+  },
+  {
+    "nombre": "josefina",
+    "apellido": "munoz",
+    "run": "3284"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "salas",
+    "run": "3285"
+  },
+  {
+    "nombre": "maria",
+    "apellido": "gay",
+    "run": "3286"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "salamanca",
+    "run": "3287"
+  },
+  {
+    "nombre": "macarena",
+    "apellido": "neruda",
+    "run": "3288"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "garay",
+    "run": "3289"
+  },
+  {
+    "nombre": "jose",
+    "apellido": "salas",
+    "run": "3290"
+  },
+  {
+    "nombre": "macarena",
+    "apellido": "gutierrez",
+    "run": "3291"
+  },
+  {
+    "nombre": "macarena",
+    "apellido": "munoz",
+    "run": "3292"
+  },
+  {
+    "nombre": "alvaro",
+    "apellido": "gutierrez",
+    "run": "3293"
+  },
+  {
+    "nombre": "fernanda",
+    "apellido": "uribe",
+    "run": "3294"
+  },
+  {
+    "nombre": "claudio",
+    "apellido": "grez",
+    "run": "3295"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "gonzales",
+    "run": "3296"
+  },
+  {
+    "nombre": "fernanda",
+    "apellido": "gutierrez",
+    "run": "3297"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "pinera",
+    "run": "3298"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "fernandez",
+    "run": "3299"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "lagos",
+    "run": "3300"
+  },
+  {
+    "nombre": "martin",
+    "apellido": "munoz",
+    "run": "3301"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "bobadilla",
+    "run": "3302"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "etcheverry",
+    "run": "3303"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "hun",
+    "run": "3304"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "chang",
+    "run": "3305"
+  },
+  {
+    "nombre": "nicolas",
+    "apellido": "garay",
+    "run": "3306"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "rivas",
+    "run": "3307"
+  },
+  {
+    "nombre": "julio",
+    "apellido": "mauro",
+    "run": "3308"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "avalos",
+    "run": "3309"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "mauro",
+    "run": "3310"
+  },
+  {
+    "nombre": "josefina",
+    "apellido": "lazcano",
+    "run": "3311"
+  },
+  {
+    "nombre": "laura",
+    "apellido": "salas",
+    "run": "3312"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "gutierrez",
+    "run": "3313"
+  },
+  {
+    "nombre": "javiera",
+    "apellido": "pinera",
+    "run": "3314"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "grez",
+    "run": "3315"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "salas",
+    "run": "3316"
+  },
+  {
+    "nombre": "tatiana",
+    "apellido": "uribe",
+    "run": "3317"
+  },
+  {
+    "nombre": "fernando",
+    "apellido": "gay",
+    "run": "3318"
+  },
+  {
+    "nombre": "ignacio",
+    "apellido": "pinera",
+    "run": "3319"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "quintana",
+    "run": "3320"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "sandoval",
+    "run": "3321"
+  },
+  {
+    "nombre": "patricio",
+    "apellido": "rivas",
+    "run": "3322"
+  },
+  {
+    "nombre": "javiera",
+    "apellido": "torres",
+    "run": "3323"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "uribe",
+    "run": "3324"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "henriquez",
+    "run": "3325"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "henriquez",
+    "run": "3326"
+  },
+  {
+    "nombre": "jose",
+    "apellido": "salamanca",
+    "run": "3327"
+  },
+  {
+    "nombre": "martin",
+    "apellido": "gay",
+    "run": "3328"
+  },
+  {
+    "nombre": "nicolas",
+    "apellido": "salamanca",
+    "run": "3329"
+  },
+  {
+    "nombre": "fernando",
+    "apellido": "avalos",
+    "run": "3330"
+  },
+  {
+    "nombre": "maria",
+    "apellido": "davalos",
+    "run": "3331"
+  },
+  {
+    "nombre": "laura",
+    "apellido": "neruda",
+    "run": "3332"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "chang",
+    "run": "3333"
+  },
+  {
+    "nombre": "valeria",
+    "apellido": "uribe",
+    "run": "3334"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "bachelet",
+    "run": "3335"
+  },
+  {
+    "nombre": "ivette",
+    "apellido": "davalos",
+    "run": "3336"
+  },
+  {
+    "nombre": "maria",
+    "apellido": "sandoval",
+    "run": "3337"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "gonzales",
+    "run": "3338"
+  },
+  {
+    "nombre": "nicolas",
+    "apellido": "gutierrez",
+    "run": "3339"
+  },
+  {
+    "nombre": "martin",
+    "apellido": "hun",
+    "run": "3340"
+  },
+  {
+    "nombre": "macarena",
+    "apellido": "lazcano",
+    "run": "3341"
+  },
+  {
+    "nombre": "laura",
+    "apellido": "vargas",
+    "run": "3342"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "lagos",
+    "run": "3343"
+  },
+  {
+    "nombre": "alvaro",
+    "apellido": "aguayo",
+    "run": "3344"
+  },
+  {
+    "nombre": "alvaro",
+    "apellido": "sandoval",
+    "run": "3345"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "salamanca",
+    "run": "3346"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "aguayo",
+    "run": "3347"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "garay",
+    "run": "3348"
+  },
+  {
+    "nombre": "juan",
+    "apellido": "davalos",
+    "run": "3349"
+  },
+  {
+    "nombre": "julio",
+    "apellido": "davalos",
+    "run": "3350"
+  },
+  {
+    "nombre": "patricio",
+    "apellido": "munoz",
+    "run": "3351"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "segovia",
+    "run": "3352"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "garay",
+    "run": "3353"
+  },
+  {
+    "nombre": "alejandra",
+    "apellido": "aguayo",
+    "run": "3354"
+  },
+  {
+    "nombre": "martin",
+    "apellido": "fernandez",
+    "run": "3355"
+  },
+  {
+    "nombre": "josefina",
+    "apellido": "gutierrez",
+    "run": "3356"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "rivas",
+    "run": "3357"
+  },
+  {
+    "nombre": "martina",
+    "apellido": "gonzales",
+    "run": "3358"
+  },
+  {
+    "nombre": "patricio",
+    "apellido": "davalos",
+    "run": "3359"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "rivas",
+    "run": "3360"
+  },
+  {
+    "nombre": "ignacio",
+    "apellido": "henriquez",
+    "run": "3361"
+  },
+  {
+    "nombre": "ernesto",
+    "apellido": "lazcano",
+    "run": "3362"
+  },
+  {
+    "nombre": "valeria",
+    "apellido": "carrasco",
+    "run": "3363"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "toledo",
+    "run": "3364"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "quiroz",
+    "run": "3365"
+  },
+  {
+    "nombre": "laura",
+    "apellido": "gonzales",
+    "run": "3366"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "avalos",
+    "run": "3367"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "avalos",
+    "run": "3368"
+  },
+  {
+    "nombre": "juan",
+    "apellido": "grez",
+    "run": "3369"
+  },
+  {
+    "nombre": "fernando",
+    "apellido": "mauro",
+    "run": "3370"
+  },
+  {
+    "nombre": "alvaro",
+    "apellido": "uribe",
+    "run": "3371"
+  },
+  {
+    "nombre": "maria",
+    "apellido": "mauro",
+    "run": "3372"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "vargas",
+    "run": "3373"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "grez",
+    "run": "3374"
+  },
+  {
+    "nombre": "alejandra",
+    "apellido": "quintana",
+    "run": "3375"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "henriquez",
+    "run": "3376"
+  },
+  {
+    "nombre": "julio",
+    "apellido": "salgado",
+    "run": "3377"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "etcheverry",
+    "run": "3378"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "lazcano",
+    "run": "3379"
+  },
+  {
+    "nombre": "pablo",
+    "apellido": "rivas",
+    "run": "3380"
+  },
+  {
+    "nombre": "jose",
+    "apellido": "davalos",
+    "run": "3381"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "gutierrez",
+    "run": "3382"
+  },
+  {
+    "nombre": "valeria",
+    "apellido": "segovia",
+    "run": "3383"
+  },
+  {
+    "nombre": "josefa",
+    "apellido": "salgado",
+    "run": "3384"
+  },
+  {
+    "nombre": "maria",
+    "apellido": "gutierrez",
+    "run": "3385"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "salgado",
+    "run": "3386"
+  },
+  {
+    "nombre": "julio",
+    "apellido": "toledo",
+    "run": "3387"
+  },
+  {
+    "nombre": "julio",
+    "apellido": "chang",
+    "run": "3388"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "gay",
+    "run": "3389"
+  },
+  {
+    "nombre": "claudio",
+    "apellido": "avalos",
+    "run": "3390"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "salamanca",
+    "run": "3391"
+  },
+  {
+    "nombre": "ignacio",
+    "apellido": "munoz",
+    "run": "3392"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "jara",
+    "run": "3393"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "sandoval",
+    "run": "3394"
+  },
+  {
+    "nombre": "josefa",
+    "apellido": "sandoval",
+    "run": "3395"
+  },
+  {
+    "nombre": "ivette",
+    "apellido": "salas",
+    "run": "3396"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "bahamondes",
+    "run": "3397"
+  },
+  {
+    "nombre": "alvaro",
+    "apellido": "rivas",
+    "run": "3398"
+  },
+  {
+    "nombre": "ignacio",
+    "apellido": "garay",
+    "run": "3399"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "bahamonde",
+    "run": "3400"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "vargas",
+    "run": "3401"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "avalos",
+    "run": "3402"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "mauro",
+    "run": "3403"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "silva",
+    "run": "3404"
+  },
+  {
+    "nombre": "alvaro",
+    "apellido": "mauro",
+    "run": "3405"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "sandoval",
+    "run": "3406"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "salgado",
+    "run": "3407"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "aguayo",
+    "run": "3408"
+  },
+  {
+    "nombre": "martina",
+    "apellido": "jara",
+    "run": "3409"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "pinera",
+    "run": "3410"
+  },
+  {
+    "nombre": "matias",
+    "apellido": "toledo",
+    "run": "3411"
+  },
+  {
+    "nombre": "fernando",
+    "apellido": "segovia",
+    "run": "3412"
+  },
+  {
+    "nombre": "juan",
+    "apellido": "jara",
+    "run": "3413"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "avalos",
+    "run": "3414"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "gay",
+    "run": "3415"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "carrasco",
+    "run": "3416"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "gutierrez",
+    "run": "3417"
+  },
+  {
+    "nombre": "claudio",
+    "apellido": "toledo",
+    "run": "3418"
+  },
+  {
+    "nombre": "jose",
+    "apellido": "quintana",
+    "run": "3419"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "segovia",
+    "run": "3420"
+  },
+  {
+    "nombre": "fernanda",
+    "apellido": "mauro",
+    "run": "3421"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "uribe",
+    "run": "3422"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "mauro",
+    "run": "3423"
+  },
+  {
+    "nombre": "juan",
+    "apellido": "davalos",
+    "run": "3424"
+  },
+  {
+    "nombre": "joaquin",
+    "apellido": "silva",
+    "run": "3425"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "aguayo",
+    "run": "3426"
+  },
+  {
+    "nombre": "laura",
+    "apellido": "segovia",
+    "run": "3427"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "silva",
+    "run": "3428"
+  },
+  {
+    "nombre": "ignacio",
+    "apellido": "grez",
+    "run": "3429"
+  },
+  {
+    "nombre": "macarena",
+    "apellido": "lazcano",
+    "run": "3430"
+  },
+  {
+    "nombre": "laura",
+    "apellido": "vargas",
+    "run": "3431"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "vergara",
+    "run": "3432"
+  },
+  {
+    "nombre": "claudio",
+    "apellido": "gutierrez",
+    "run": "3433"
+  },
+  {
+    "nombre": "ernesto",
+    "apellido": "bachelet",
+    "run": "3434"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "uribe",
+    "run": "3435"
+  },
+  {
+    "nombre": "juan",
+    "apellido": "salas",
+    "run": "3436"
+  },
+  {
+    "nombre": "antonia",
+    "apellido": "aguayo",
+    "run": "3437"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "salamanca",
+    "run": "3438"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "quiroz",
+    "run": "3439"
+  },
+  {
+    "nombre": "tatiana",
+    "apellido": "munoz",
+    "run": "3440"
+  },
+  {
+    "nombre": "fernanda",
+    "apellido": "salgado",
+    "run": "3441"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "fernandez",
+    "run": "3442"
+  },
+  {
+    "nombre": "martina",
+    "apellido": "gutierrez",
+    "run": "3443"
+  },
+  {
+    "nombre": "javiera",
+    "apellido": "sandoval",
+    "run": "3444"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "salas",
+    "run": "3445"
+  },
+  {
+    "nombre": "moises",
+    "apellido": "mauro",
+    "run": "3446"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "bahamondes",
+    "run": "3447"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "gay",
+    "run": "3448"
+  },
+  {
+    "nombre": "josefina",
+    "apellido": "lopez",
+    "run": "3449"
+  },
+  {
+    "nombre": "martina",
+    "apellido": "bahamondes",
+    "run": "3450"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "lagos",
+    "run": "3451"
+  },
+  {
+    "nombre": "josefa",
+    "apellido": "grez",
+    "run": "3452"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "gay",
+    "run": "3453"
+  },
+  {
+    "nombre": "tatiana",
+    "apellido": "gonzales",
+    "run": "3454"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "etcheverry",
+    "run": "3455"
+  },
+  {
+    "nombre": "macarena",
+    "apellido": "fernandez",
+    "run": "3456"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "quiroz",
+    "run": "3457"
+  },
+  {
+    "nombre": "dario",
+    "apellido": "salas",
+    "run": "3458"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "bahamondes",
+    "run": "3459"
+  },
+  {
+    "nombre": "patricio",
+    "apellido": "salas",
+    "run": "3460"
+  },
+  {
+    "nombre": "fernanda",
+    "apellido": "quiroz",
+    "run": "3461"
+  },
+  {
+    "nombre": "maria",
+    "apellido": "quintana",
+    "run": "3462"
+  },
+  {
+    "nombre": "javiera",
+    "apellido": "lopez",
+    "run": "3463"
+  },
+  {
+    "nombre": "josefina",
+    "apellido": "neruda",
+    "run": "3464"
+  },
+  {
+    "nombre": "valeria",
+    "apellido": "henriquez",
+    "run": "3465"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "salgado",
+    "run": "3466"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "vargas",
+    "run": "3467"
+  },
+  {
+    "nombre": "alejandra",
+    "apellido": "salgado",
+    "run": "3468"
+  },
+  {
+    "nombre": "emilia",
+    "apellido": "bachelet",
+    "run": "3469"
+  },
+  {
+    "nombre": "paulina",
+    "apellido": "etcheverry",
+    "run": "3470"
+  },
+  {
+    "nombre": "ignacio",
+    "apellido": "chang",
+    "run": "3471"
+  },
+  {
+    "nombre": "martin",
+    "apellido": "uribe",
+    "run": "3472"
+  },
+  {
+    "nombre": "daniel",
+    "apellido": "etcheverry",
+    "run": "3473"
+  },
+  {
+    "nombre": "claudio",
+    "apellido": "salamanca",
+    "run": "3474"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "pinera",
+    "run": "3475"
+  },
+  {
+    "nombre": "andres",
+    "apellido": "gay",
+    "run": "3476"
+  },
+  {
+    "nombre": "juan",
+    "apellido": "salas",
+    "run": "3477"
+  },
+  {
+    "nombre": "ivette",
+    "apellido": "bobadilla",
+    "run": "3478"
+  },
+  {
+    "nombre": "javiera",
+    "apellido": "etcheverry",
+    "run": "3479"
+  }
+]

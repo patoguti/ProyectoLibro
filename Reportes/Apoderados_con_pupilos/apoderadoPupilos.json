@@ -1,0 +1,102 @@
+[
+  {
+    "nombre": "martina",
+    "apellido": "uribe",
+    "run": "1442"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "torres",
+    "run": "1469"
+  },
+  {
+    "nombre": "martina",
+    "apellido": "rivas",
+    "run": "1490"
+  },
+  {
+    "nombre": "leonardo",
+    "apellido": "pinera",
+    "run": "1540"
+  },
+  {
+    "nombre": "tatiana",
+    "apellido": "lagos",
+    "run": "1565"
+  },
+  {
+    "nombre": "paula",
+    "apellido": "fernandez",
+    "run": "1590"
+  },
+  {
+    "nombre": "yusari",
+    "apellido": "lagos",
+    "run": "1596"
+  },
+  {
+    "nombre": "nicolas",
+    "apellido": "bahamondes",
+    "run": "1615"
+  },
+  {
+    "nombre": "laura",
+    "apellido": "mauro",
+    "run": "1632"
+  },
+  {
+    "nombre": "ivette",
+    "apellido": "pinera",
+    "run": "1647"
+  },
+  {
+    "nombre": "maria",
+    "apellido": "lazcano",
+    "run": "1685"
+  },
+  {
+    "nombre": "fernando",
+    "apellido": "aguayo",
+    "run": "1698"
+  },
+  {
+    "nombre": "martina",
+    "apellido": "quiroz",
+    "run": "1708"
+  },
+  {
+    "nombre": "josefina",
+    "apellido": "grez",
+    "run": "1724"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "torres",
+    "run": "1734"
+  },
+  {
+    "nombre": "julio",
+    "apellido": "etcheverry",
+    "run": "1760"
+  },
+  {
+    "nombre": "fernanda",
+    "apellido": "gonzales",
+    "run": "1776"
+  },
+  {
+    "nombre": "mateo",
+    "apellido": "silva",
+    "run": "1784"
+  },
+  {
+    "nombre": "catalina",
+    "apellido": "grez",
+    "run": "1789"
+  },
+  {
+    "nombre": "alejandro",
+    "apellido": "jara",
+    "run": "1849"
+  }
+]
