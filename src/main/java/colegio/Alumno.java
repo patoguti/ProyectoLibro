@@ -9,12 +9,9 @@ import java.util.List;
  *
  * @author toupa
  */
-public class Alumno {
-
-    private String nombre; // nombre alumno
-    private String apellido; // apellido alumno
+public class Alumno extends Persona{
+ 
     private boolean[] asistencia; // arreglo de asistencias
-    private String run; // run alumno
     private Evaluacion[] promedios; //promedios de asignaturas
     private Evaluacion[] evaluaciones; // evaluaciones
     private List<Anotacion> anotaciones; //anotaciones del alumno

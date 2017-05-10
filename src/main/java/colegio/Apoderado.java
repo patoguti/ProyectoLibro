@@ -8,11 +8,8 @@ import java.util.List;
  *
  * @author toupa
  */
-public class Apoderado {
+public class Apoderado extends Persona{
 
-    private String nombre; //nombre del apoderado
-    private String apellido; //apellido del apoderado
-    private String run; //run del apoderado
     private List<Alumno> pupilos; // lista de sus pupilos
 
     /**

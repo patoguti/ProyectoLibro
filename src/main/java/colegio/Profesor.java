@@ -4,11 +4,8 @@ package colegio;
  * Clase que representa a un profesor del Colegio
  * @author toupa
  */
-public class Profesor {
+public class Profesor extends Persona{
 
-	private String nombre; //nombre del profesor
-	private String apellido; //apellido del profesor
-	private String run; //run del profesor
         /**
          * Constructor de la clase profesor
          * @param nombre Nombre del profesor
